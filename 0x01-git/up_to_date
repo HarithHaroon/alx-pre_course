@@ -1,3 +1,5 @@
+git pull https://github.com/HarithHaroon/alx-pre_course.git
+cd alx-pre_course
 touch up_to_date
 echo "touch up_to_date" > up_to_date
 echo "echo "touch up_to_date" > up_to_date" > up_to_date
